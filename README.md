@@ -10,3 +10,6 @@ We are starting by doing this Maze solver project https://www.sciencebuddies.org
 Reading the text. 
 
 
+## 28th March 2025 
+
+Resuming this work. 
