@@ -14,7 +14,7 @@ Reading the text.
 
 Resuming this work. 
 
-The computer can learn how to navigate a maze on its own.  It does so by playing the maze many times and every time it makes a mistake, it learns from it. 
+_The computer can learn how to navigate a maze on its own.  It does so by playing the maze many times and every time it makes a mistake, it learns from it. _
 
 vs. 
 
