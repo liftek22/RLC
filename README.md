@@ -35,3 +35,11 @@ Time spent: 0.33
 
 Q-learning,  is  a specific approach in RL where a machine learns to make decisions by using a table to remember which actions are best in different situations.
 
+## 2nd April 2025 
+
+RL is particularly helpful for situations where we want to train machines to have certain skills we do not fully understand ourselves.
+
+credit assignments.  
+
+Agent takes many actions before it succeeds and gets a reward. Then, everytime the agent wins, we can look back on the actions it took and slowly figure out which games states were helpful and which weren't.  
+
