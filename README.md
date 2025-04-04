@@ -39,7 +39,16 @@ Q-learning,  is  a specific approach in RL where a machine learns to make decisi
 
 RL is particularly helpful for situations where we want to train machines to have certain skills we do not fully understand ourselves.
 
-credit assignments.  
+'credit assignments'
 
-Agent takes many actions before it succeeds and gets a reward. Then, everytime the agent wins, we can look back on the actions it took and slowly figure out which games states were helpful and which weren't.  
+Agent takes many actions before it succeeds and gets a reward. Then, everytime the agent wins, we can look back on the actions it took and slowly figure out which game states were helpful and which weren't. 
 
+
+## 4th April 2025
+
+
+During the abovee reflection, we are assigning values to the different game states and deciding on a policy on which action works best.  We need values and policies  to get anything done in RL. 
+
+Policy - what action to take. 
+
+High risk, high reward policies.  Low risk, low reward policies. 
