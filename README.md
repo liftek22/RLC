@@ -54,9 +54,16 @@ Policy - what action to take.
 High risk, high reward policies.  Low risk, low reward policies. 
 
 
+
 ## 5th April 2025
 
 Suppose the robot wants to go to a destination within a gridded area.  Robot is the agent here and gridded area is the environment. Lets say he starts from (3,2) grid.  His possible actions are : go left, go right, go up , go down.  If he takes one of these actions, his state changes ( state is updated).  He can continue changing states and exploring until he reaches the destination at what point he will get a reward. 
+
+## 6th April 
+
+Should we use exploration to try and find better paths or use exploitation to try and collect more points? 
+
+
 
 
 Exploitation ( of prior knowledge) vs exploration ( of new knowledge).  
